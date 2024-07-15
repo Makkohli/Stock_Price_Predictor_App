@@ -7,7 +7,6 @@ import capm_func as capm_func
 
 
 
-
 st.set_page_config(page_title = "CAPM",
       page_icon="chart_with_upwards_trend",
       layout = 'wide')
