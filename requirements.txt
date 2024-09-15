@@ -7,3 +7,4 @@ yfinance
 tensorflow
 stocknews
 scikit-learn 
+pandas_datareader 
