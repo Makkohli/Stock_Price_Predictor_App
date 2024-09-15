@@ -6,3 +6,4 @@ plotly
 yfinance
 tensorflow
 stocknews
+scikit-learn 
